@@ -1,0 +1,3 @@
+<?,?>
+<?>
+java18 -jar lab5.jar collection.txt
